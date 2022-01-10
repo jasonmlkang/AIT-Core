@@ -53,4 +53,4 @@ nosetests.xml
 # Macintosh file
 *.DS_Store
 
-leapseconds.dat
+*/leapseconds.dat
